@@ -243,7 +243,7 @@ export default function Footer() {
       <div className="px-4 pb-10 lg:pb-8 lg:max-w-[1200px] lg:mx-auto lg:px-8">
         <div className="w-full flex flex-col items-center gap-4 lg:flex-row lg:justify-between">
           <p className="text-text-inverse text-body-sm text-center opacity-70 lg:text-left">
-            © 2026 Dinexa. Todos los derechos reservados.
+            © 2026 Dinexa S.F. Todos los derechos reservados.
           </p>
 
           <div className="flex items-center gap-4">
