@@ -33,11 +33,11 @@ export default function SecurityPopup() {
           <div className="flex items-start justify-between gap-3 lg:items-center">
             {/* Texto */}
             <p className="text-small-md text-text-inverse leading-snug lg:text-body lg:max-w-[1020px]">
-              <span className="font-bold">DINEXA</span> nunca le solicitará pagos
+              <span className="font-bold">DINEXA S.F</span> nunca le solicitará pagos
               anticipados, transferencias ni depósitos para gestionar o aprobar
               préstamos. Tampoco solicita códigos, contraseñas ni claves
               bancarias. Cualquier pedido de este tipo no proviene de{" "}
-              <span className="font-bold">DINEXA</span> y constituye un intento
+              <span className="font-bold">DINEXA S.F</span> y constituye un intento
               de fraude. Comuníquese únicamente a través de los canales oficiales
               publicados en este sitio web.
             </p>
